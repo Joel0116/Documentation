@@ -1,4 +1,6 @@
-# CSC 190 Project
+# CSC 191 Project
+
+NEW ENDPOINT: http://tams-142602.appspot.com
 
 This can be our central repository for everything in this class. The idea is to utilize git for managing:
 
@@ -14,9 +16,8 @@ This can be our central repository for everything in this class. The idea is to 
 
 | Name | Due Date | URL |
 |:----:|:--------:|:---:|
-| Presentation | Tues 3/8 | [Click Here](https://drive.google.com/open?id=1nqVnaM796qiKU9e2mdFeziig3Y2mQaazG3ZRLrYTKXA) |
 | SRS | Unknown | [Link](https://drive.google.com/open?id=1rx6rZwMBG-OaQlI6pdnq8Kubuxy1nZ9vTUcumctS1sU) |
-| Project Charter | Tues 3/15 | [Link](https://drive.google.com/open?id=1H_F9cvXvnceiscKmeJs8BOhj63-rgs6PkUzSwaJ86H8) |
+| Stories | 9/22/16 | [Link](https://drive.google.com/open?id=1lJVjbcoNXtzHIKngp-oz3PTH3iyTjgodoG196D7_BTE)
 
 All papers, past and current, are visible on at this [LINK](https://drive.google.com/drive/u/0/folders/0B01T4L-ATMLhVTl6b2pIdW1yTjA). (access required)
 
@@ -26,8 +27,7 @@ This is a general calendar for the events, meetings, due dates that may be comin
 
 | Event Title | Location | Start | End | Agenda/Notes |
 |:-----------:|:--------:|:-----:|:---:|:------------:|
-|Team Meeting | Networking Room RVR 2nd floor | Wednesday 12pm | - | - |
-| Advisor Meeting | 5029a | Wednesday 12pm | - | - |
+| none yet | | | | |
 
 ## Meeting Notes
 
@@ -55,6 +55,6 @@ Resources that we can use for the project.
 | Alejandro | 209 242 3132        | alejandropena16@yahoo.com |
 | Aaron     | 916 572 4157        | awilliams1490@yahoo.com   |
 | Dan       | 530 908 6098        | danielmj@me.com           |
-| Jeff      | 916 221 1659        |jeppy7@hotmail.com 		  |
+| Jeff      | 916 221 1659        | jeppy7@hotmail.com 		  |
 | Walter    | 916 761 2980        | motolubu39@yahoo.com  	  |
 | Scott     | 916 230 8856        | sk3464@csus.edu 		  |
